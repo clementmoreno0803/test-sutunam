@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{opacity:.6;clip-path:url(#clip-path)}.cls-3{fill:#646363}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h16v16H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Composant_2" class="cls-2" data-name="Composant 2">
+        <path id="Tracé_833" d="M138.67 112.553h-14.234a.883.883 0 0 0-.883.883v14.234a.883.883 0 0 0 .883.883h7.664v-6.2h-2.085v-2.415h2.085v-1.781a2.91 2.91 0 0 1 3.106-3.192 17.116 17.116 0 0 1 1.863.1v2.16h-1.279c-1 0-1.2.476-1.2 1.176v1.542h2.391l-.311 2.415h-2.08v6.2h4.077a.883.883 0 0 0 .883-.883v-14.239a.883.883 0 0 0-.88-.883z" class="cls-3" data-name="Tracé 833" transform="translate(-123.553 -112.553)"/>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="16" viewBox="0 0 20 16">
+    <defs>
+        <clipPath id="clip-path">
+            <path fill="none" d="M0 0H20V16H0z"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:#646363}
+        </style>
+    </defs>
+    <g id="menu_icon" clip-path="url(#clip-path)">
+        <path id="Rectangle_9" d="M0 0H15V1H0z" class="cls-3"/>
+        <path id="Rectangle_10" d="M0 0H20V1H0z" class="cls-3" transform="translate(0 5)"/>
+        <path id="Rectangle_12" d="M0 0H18V1H0z" class="cls-3" transform="translate(0 10)"/>
+        <path id="Rectangle_402" d="M0 0H12V1H0z" class="cls-3" transform="translate(0 15)"/>
+    </g>
+</svg>

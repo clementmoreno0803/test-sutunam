@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="10" viewBox="0 0 15 10">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#eee}.cls-4{fill:#004891}.cls-5{fill:#e21e32}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h15v10H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Composant_2" class="cls-2" data-name="Composant 2">
+        <path id="Rectangle_398" d="M0 0h5v10H0z" class="cls-3" data-name="Rectangle 398" transform="translate(5)"/>
+        <path id="Rectangle_399" d="M1 0h4v10H1a1 1 0 0 1-1-1V1a1 1 0 0 1 1-1z" class="cls-4" data-name="Rectangle 399"/>
+        <path id="Rectangle_400" d="M0 0h4a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H0V0z" class="cls-5" data-name="Rectangle 400" transform="translate(10)"/>
+    </g>
+</svg>
