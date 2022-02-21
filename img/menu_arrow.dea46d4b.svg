@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7.305" height="13.193" viewBox="0 0 7.305 13.193">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#646363}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h7.304v13.193H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Composant_3" class="cls-2" data-name="Composant 3">
+        <path id="Tracé_885" d="M2760.022 7692.707l5.89-5.89-5.89-5.89.707-.707 6.6 6.6-6.6 6.6z" class="cls-3" data-name="Tracé 885" transform="translate(-2760.022 -7680.22)"/>
+    </g>
+</svg>
